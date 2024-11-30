@@ -5,3 +5,6 @@ scikit-learn
 langchain-ollama
 bs4
 python-dotenv
+
+azure-search-documents
+azure-identity
